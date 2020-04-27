@@ -78,9 +78,8 @@ table, td, th { border: 1px solid #666;vertical-align: baseline; padding: 4px 5p
 	
 	echo "<pre>";
 	// Print when necessary
-	//print_r($objArray);
+	print_r($objArray);
 	echo "</pre>";
-	 
 	?>
 	 </div>
   </body>
